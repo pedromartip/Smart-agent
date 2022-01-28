@@ -12,3 +12,5 @@
   - No requiere una versión en concreto de Java.
   - Entorno de programación: Netbeans
 </I>
+
+## Información más detallada en el archivo ''Readme.pdf''
